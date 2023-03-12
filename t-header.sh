@@ -93,7 +93,7 @@ THEADER ()
 {
 clear;
 echo -e "\033[01;32m
-Remo773 (2020)
+Erlan
 		
 	menu
 +---------------------------*/
@@ -116,7 +116,7 @@ if [[ ${#PROC} -gt 8 ]]; then
 	sleep 4
 	clear
 echo -e "\033[01;32m
-Remo773 (2020)
+Erlan 
 
 	menu
 +---------------------------*/
